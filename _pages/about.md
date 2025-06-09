@@ -12,6 +12,6 @@ Hi, My name is Tianze Qu. I will become a first-year Ph.D. student in [Industria
 Research Interests
 ------
 Methodologies: Applied Probability, Optimization, Queueing Theory, Game Theory, Reinforcement Learning  
-Applications: Revenue Management and Pricing, Online Platform Design 
+Applications: Revenue Management and Pricing, Operations Management, Online Platform Design 
 
 
