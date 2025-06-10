@@ -18,7 +18,7 @@ Revenue Management and Pricing, Operations Management, Online Platforms Design
 
 Miscellaneous
 ------
-I enjoy playing [chess](https://en.wikipedia.org/wiki/Chess) in my spare time. If you are also interested in chess, you can find me at chess[dot]com and search my username "tzqu". My Blitz and Rapid ratings are both over 1900.
+I enjoy playing [chess](https://en.wikipedia.org/wiki/Chess) in my spare time. If you are also interested in chess, you can find me at chess[dot]com and search my username "tzqu". My [Blitz](https://www.chess.com/terms/blitz-chess) and [Rapid](https://www.chess.com/terms/rapid-chess) ratings are both over 1900.
 
 Contact Information
 -----
