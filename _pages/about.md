@@ -16,4 +16,7 @@ Applied Probability, Optimization, Queueing Theory, Game Theory, Reinforcement L
 Applications:  
 Revenue Management and Pricing, Operations Management, Online Platforms Design
 
+Contact Information
+-----
+Email: tianzequ [at] umich [dot] edu
 
