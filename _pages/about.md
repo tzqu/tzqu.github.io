@@ -16,6 +16,10 @@ Applied Probability, Optimization, Queueing Theory, Game Theory, Reinforcement L
 Applications:  
 Revenue Management and Pricing, Operations Management, Online Platforms Design
 
+Miscellaneous
+------
+I really enjoy playing [chess](https://en.wikipedia.org/wiki/Chess) in my spare time, and if you are interested in chess, you can find me at chess[dot]com and search for my username tzqu. My Blitz and Rapid ratings are both over 1900.
+
 Contact Information
 -----
 Email: tianzequ [at] umich [dot] edu
