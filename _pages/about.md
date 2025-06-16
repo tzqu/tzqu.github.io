@@ -22,5 +22,5 @@ I enjoy playing [chess](https://en.wikipedia.org/wiki/Chess) in my spare time. I
 
 Contact Information
 -----
-Email: tianzequ_at_umich_dot_edu
+Email: tianzequIGNORE_at_umich_dot_edu
 
