@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-winter-teaching
 venue: "UMich IOE"
-date: 2026 Winter
+date: 2026-01-01
 location: "Ann Arbor, MI"
 ---
 
