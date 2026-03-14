@@ -7,11 +7,7 @@ venue: "UMich IOE"
 date: 2026-01-01
 location: "Ann Arbor, MI"
 ---
-## Teaching Assistant
 
-### University of Michigan
-
-- **IOE 441** Production and Inventory Control — Winter 2026
 
 
 
