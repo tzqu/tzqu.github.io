@@ -1,20 +1,17 @@
 ---
-title: "IOE 441: PRODUCTION AND INVENTORY CONTROL"
-collection: teaching
+title: "University of Michigan"
+collection: Teaching Assistant
 type: "Undergraduate course"
 permalink: /teaching/2026-winter-teaching
 venue: "UMich IOE"
 date: 2026-01-01
 location: "Ann Arbor, MI"
 ---
+## Teaching Assistant
 
-Teaching Assistant, around 80 students
+### University of Michigan
 
-Heading 1
-======
+- **IOE 441** Production and Inventory Control — Winter 2026
 
-Heading 2
-======
 
-Heading 3
-======
+
