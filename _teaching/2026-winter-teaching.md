@@ -8,7 +8,7 @@ date: 2026 Winter
 location: "Ann Arbor, MI"
 ---
 
-Graduate Student Instructor, around 80 students
+Teaching Assistant, around 80 students
 
 Heading 1
 ======
