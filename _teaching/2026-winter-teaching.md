@@ -3,8 +3,8 @@ title: "IOE 441: PRODUCTION AND INVENTORY CONTROL"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2026-winter-teaching
-venue: "UMich, IOE"
-date: 2026-01-01
+venue: "UMich IOE"
+date: 2026 Winter
 location: "Ann Arbor, MI"
 ---
 
