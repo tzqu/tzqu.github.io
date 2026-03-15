@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /teaching/
-title: /Teaching Assistant/
+title: "Teaching Assistant"
 author_profile: true
 ---
 
