@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Tianze Qu. I am a first-year Ph.D. student in [Industrial and Operations Engineering](https://ioe.engin.umich.edu/) at [University of Michigan](https://umich.edu/) since Fall 2025, where I am fortunate to be advised by Prof. [Sushil Varma](https://sites.google.com/view/sushil-varma/home). 
+Hi, my name is Tianze Qu. I am a first-year Ph.D. student in [Industrial and Operations Engineering](https://ioe.engin.umich.edu/) at [University of Michigan, Ann Arbor](https://umich.edu/) since Fall 2025, where I am fortunate to be advised by Prof. [Sushil Varma](https://sites.google.com/view/sushil-varma/home). 
 
 I am also fortunate to collaborate with Prof. [Daniela Hurtado Lange﻿﻿](https://sites.google.com/view/daniela-hurtado-lange) at [Kellogg School of Management, Northwestern University](https://www.kellogg.northwestern.edu/) and Prof. [Pengyu Qian](https://pengyuqian.netlify.app/) at [Questrom School of Business, Boston University](https://www.bu.edu/questrom/).
 
