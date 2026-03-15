@@ -20,10 +20,6 @@ Applied Probability, Optimization, Queueing Theory, Game Theory, Reinforcement L
 Applications:  
 Revenue Management and Pricing, Online Platforms, Electric Vehicles Charging, Scheduling for LLM Inference
 
-Miscellaneous
-------
-I enjoy playing [chess](https://en.wikipedia.org/wiki/Chess) in my spare time. If you are also interested in chess, you can find me at [chess_dot_com](https://www.chess.com/) and search my username "tzqu". My [Blitz](https://www.chess.com/terms/blitz-chess) rating is over 1900 and my [Rapid](https://www.chess.com/terms/rapid-chess) rating is over 2000.
-
 Contact Information
 -----
 Email: tianzequIGNORE_at_umich_dot_edu
