@@ -5,7 +5,7 @@ title: "Topics across various interdisciplinary fields"
 author_profile: true
 ---
 
-### Stochastic and Adversarial Matching (CS Theory)
+### Stochastic Matching and Combinatorial Problems (CS Theory)
 
 - **Pivotal Sampling / Dependent Rounding on Level Sets**
 
