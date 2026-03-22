@@ -19,6 +19,9 @@ main:
 
   - title: "Miscellaneous"
     url: /miscellaneous/
+
+  - title: "Reading Group"
+    url: /reading-group/
     
   # - title: "Portfolio"
   #  url: /portfolio/
