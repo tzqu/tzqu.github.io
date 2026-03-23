@@ -17,11 +17,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
 
+  - title: "Reading Group"
+    url: /reading-group/
+
   - title: "Miscellaneous"
     url: /miscellaneous/
 
-  - title: "Reading Group"
-    url: /reading-group/
     
   # - title: "Portfolio"
   #  url: /portfolio/
