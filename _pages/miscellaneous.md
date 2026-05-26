@@ -8,7 +8,7 @@ author_profile: true
 Chess
 ----------
 
-I enjoy playing [chess](https://en.wikipedia.org/wiki/Chess) in my spare time. If you would like to play a game, you can find me on [chess.com](https://www.chess.com/) under the username **tzqu**. My ratings are around 2000 in [Blitz](https://www.chess.com/terms/blitz-chess) (top 0.6%), 2100 in [Rapid](https://www.chess.com/terms/rapid-chess) (top 0.1%), and 1900 in [Bullet](https://www.chess.com/terms/bullet-chess) (top 0.8%).
+I enjoy playing [chess](https://en.wikipedia.org/wiki/Chess) in my spare time. If you would like to play a game, you can find me on [chess.com](https://www.chess.com/) under the username **tzqu**. My highest ratings are 2000+ in [Blitz](https://www.chess.com/terms/blitz-chess) (top 0.6%), 2100+ in [Rapid](https://www.chess.com/terms/rapid-chess) (top 0.1%), and 2000+ in [Bullet](https://www.chess.com/terms/bullet-chess) (top 0.5%).
 
 
 
