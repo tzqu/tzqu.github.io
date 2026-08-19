@@ -20,6 +20,11 @@ Applied Probability, Optimization, Queueing Theory, Game Theory, Reinforcement L
 Applications:  
 Revenue Management and Pricing, Online Platforms, Electric Vehicles Charging, Scheduling for LLM Inference
 
+News
+------
+- **May 6, 2026** — Passed the preliminary exam.
+- **March 13, 2026** — Our paper *Efficiency-Reward Trade-Off in Queues with Dynamic Arrivals* was accepted to ACM SIGMETRICS 2026.
+
 Contact Information
 -----
 Email: tianzequIGNORE_at_umich_dot_edu
