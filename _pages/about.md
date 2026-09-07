@@ -18,7 +18,7 @@ Research Interests
 Methodologies:  
 Applied Probability, Optimization, Queueing Theory, Game Theory, Reinforcement Learning  
 Applications:  
-Revenue Management and Pricing, Online Platforms, Electric Vehicles Charging, Scheduling for LLM Inference
+Revenue Management and Pricing, Online Platforms, Electric Vehicles Charging
 
 News
 ------
