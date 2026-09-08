@@ -25,7 +25,7 @@ author:
   avatar           : "photo.jpg"
   name             : "Tianze Qu"
   pronouns         : # example: "she/her"  
-  bio              : "First-year Operations Research PhD student at UMich"
+  bio              : "PhD Candidate in Operations Research at UMich"
   location         : "Ann Arbor, MI"
   employer         : "University of Michigan"
   uri              : # URL
@@ -110,7 +110,7 @@ staticman:
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  requiredFields         : ['email', 'message']
   transforms:
     email                : "md5"
   generatedFields:
@@ -321,7 +321,7 @@ whitelist:
 # Archives
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
+#  - Jekyll Archives plugin ~> type: jekyll-archives
 #  Path (examples)
 #  - Archive page should exist at path when using Liquid method or you can
 #    expect broken links (especially with breadcrumbs enabled)
