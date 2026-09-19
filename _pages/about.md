@@ -25,3 +25,11 @@ News
 Contact Information
 -----
 Email: tianzequIGNORE_at_umich_dot_edu
+
+Chess
+-----
+I enjoy playing [chess](https://en.wikipedia.org/wiki/Chess) in my spare time. If you would like to play a game, you can find me on [chess.com](https://www.chess.com/) under the username **tzqu**. My peak ratings are 2228 in [Blitz](https://www.chess.com/terms/blitz-chess), 2297 in [Rapid](https://www.chess.com/terms/rapid-chess), and 2092 in [Bullet](https://www.chess.com/terms/bullet-chess).
+
+*“Every pawn is a potential queen.” — James Mason*
+
+![Chess trap meme](https://i.imgflip.com/8bnqtw.jpg)
