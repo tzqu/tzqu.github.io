@@ -9,8 +9,6 @@ redirect_from:
 
 Hi, my name is Tianze Qu. I am a Ph.D. student in [Industrial and Operations Engineering](https://ioe.engin.umich.edu/) at [University of Michigan–Ann Arbor](https://umich.edu/) since Fall 2025, where I am fortunate to be advised by Prof. [Sushil Varma](https://sites.google.com/view/sushil-varma/home). My current research focuses on using tools from applied probability and optimization to study decision-making problems in dynamic stochastic systems, including pricing and admission control in queueing systems, with applications to online marketplaces and EV charging platforms.
 
-I am also fortunate to collaborate with Prof. [Daniela Hurtado Lange﻿﻿](https://daniela-hl.github.io/) at [Kellogg School of Management, Northwestern University](https://www.kellogg.northwestern.edu/) and Prof. [Pengyu Qian](https://pengyuqian.netlify.app/) at [Questrom School of Business, Boston University](https://www.bu.edu/questrom/).
-
 Previously, I received my M.S. from University of Michigan (Dec 2024) and my B.S. in Mathematics from [University of Macau](https://www.um.edu.mo/) (June 2023).
 
 Research Interests
@@ -27,4 +25,3 @@ News
 Contact Information
 -----
 Email: tianzequIGNORE_at_umich_dot_edu
-
