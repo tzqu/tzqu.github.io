@@ -16,9 +16,11 @@ Previously, I received my M.S. from University of Michigan (Dec 2024) and my B.S
 Research Interests
 ------
 Methodologies:  
-Applied Probability, Optimization, Queueing Theory, Game Theory, Reinforcement Learning  
+Applied Probability, Optimization, Queueing Theory, Online Algorithms and Combinatorial Methods, Game Theory, Reinforcement Learning  
+Problem Areas:  
+Pricing, Matching, Resource Allocation  
 Applications:  
-Revenue Management and Pricing, Online Platforms, Electric Vehicles Charging
+Online Platforms and Marketplaces, Electric Vehicle Charging
 
 News
 ------
